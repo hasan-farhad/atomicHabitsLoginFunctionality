@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BarnesAndNoble" duration-ms="6739" started-at="2022-08-09T16:40:25 EDT" finished-at="2022-08-09T16:40:32 EDT">
+    <groups>
+    </groups>
+    <test name="BasicTests" duration-ms="6739" started-at="2022-08-09T16:40:25 EDT" finished-at="2022-08-09T16:40:32 EDT">
+      <class name="TestScripts.ApplicableLoginTest">
+        <test-method status="PASS" signature="m1()[pri:0, instance:TestScripts.ApplicableLoginTest@3701eaf6]" name="m1" duration-ms="6712" started-at="2022-08-09T16:40:25 EDT" finished-at="2022-08-09T16:40:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- TestScripts.ApplicableLoginTest -->
+    </test> <!-- BasicTests -->
+  </suite> <!-- BarnesAndNoble -->
+</testng-results>
